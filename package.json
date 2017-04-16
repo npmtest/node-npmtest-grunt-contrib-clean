@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [grunt-contrib-clean (v1.0.0)](https://github.com/gruntjs/grunt-contrib-clean) [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-clean.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-clean) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-clean.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-clean)",
+    "description": "test coverage for [grunt-contrib-clean (v1.1.0)](https://github.com/gruntjs/grunt-contrib-clean#readme) [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-clean.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-clean) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-clean.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-clean)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "grunt-contrib-clean": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "0.0.2"
 }
