@@ -4,8 +4,8 @@
 <tspan x="10" y="26">1 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
-<tspan x="10" y="74">├── UNMET PEER DEPENDENCY grunt@&gt;= 0.4.5</tspan>
-<tspan x="10" y="90">└─┬ grunt-contrib-clean@1.0.0 </tspan>
+<tspan x="10" y="74">├── UNMET PEER DEPENDENCY grunt@&gt;=0.4.5</tspan>
+<tspan x="10" y="90">└─┬ grunt-contrib-clean@1.1.0 </tspan>
 <tspan x="10" y="106">  ├── async@1.5.2 </tspan>
 <tspan x="10" y="122">  └─┬ rimraf@2.6.1 </tspan>
 <tspan x="10" y="138">    └─┬ glob@7.1.1 </tspan>
